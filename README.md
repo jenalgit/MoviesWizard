@@ -5,7 +5,7 @@ What does the app do?
 It gives the user movie recommendations on categories of:
   1. Popular movies
   2. Top Rated  
-  3. Upcoming 
+  3. Upcoming
   4. Now Playing
   
   Upon selection a list of movies is displayed and on selecting a movie, its plot, poster and title are displayed.
