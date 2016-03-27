@@ -8,7 +8,7 @@ It gives the user movie recommendations on categories of:
   3. Upcoming
   4. Now Playing
   
-  Upon selection a list of movies is displayed and on selecting a movie, its plot, poster and title are displayed.
+  Upon selection a list of movies is displayed and on selecting a movie, its plot, poster, release date and title are displayed.
   
   Note: These lists are maintained by The Movie DB : https://www.themoviedb.org/
   
